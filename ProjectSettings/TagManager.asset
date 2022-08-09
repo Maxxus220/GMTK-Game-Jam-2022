@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tilemap
   layers:
   - Default
   - TransparentFX
@@ -12,15 +13,15 @@ TagManager:
   - Water
   - UI
   - Structure
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Confiner
+  - WompColliders
+  - Player
+  - Projectiles
+  - Player projectiles
+  - Fire
+  - Bomb
+  - Shoot over environment
   - 
   - 
   - 
